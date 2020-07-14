@@ -158,7 +158,11 @@
 - name: Dasuni Jayawardena
   role: Student
   description: |
+<<<<<<< HEAD
     Dasuni is an undergrad Mathematics major with a concentration in Statistics who aspires to apply mathematical and statistical techniques to help solve real-world problems. In her free time she likes painting, listening to music and hiking.
+=======
+    Dasuni is an Undergrad Mathematics major with a Statistics concentration who aspires to apply mathematical and statistical techniques to help solve real-world problems. IN her free time she likes painting, listening to music and hiking.
+>>>>>>> 8699e884a2730011b5cf733c53a0c74bc31bad2f
   image: /images/people/Dasuni.jpg
   links:[]
   
